@@ -14,7 +14,7 @@ The Cars Evaluation data set consists of 7 attributes, 6 as feature attributes a
 6	safety	low, med, high
 7	car_evaluation 	 unacc, acc, good, vgood
 
-Question 1 For the given data set build a decision tree and evaluate classifier performance
+#1 For the given data set build a decision tree and evaluate classifier performance
 
-Question 2 Build different decision tree models and evaluate performance using k-fold validation
+ #2 Build different decision tree models and evaluate performance using k-fold validation
 
